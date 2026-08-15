@@ -1,0 +1,35 @@
+﻿query_id,split,family,attr_gt,attr_parsed,treq_gt,treq_parsed,rel_gt,rel_parser,leak_gt,leak_parser,over_gt,over_parser,rule_parser,reason_parser
+A0569,adversarial,F7-join-skip,CP,CP,3,2,1,0,0,0,0,1,D_final,tier 3>2
+Q0017,standard,,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+Q0018,standard,,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+Q0019,standard,,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+Q0020,standard,,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+Q0021,standard,,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+Q0022,standard,,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+Q0073,standard,,LN,LN,3,2,1,0,0,0,0,1,D_final,tier 3>2
+Q0074,standard,,LN,LN,3,2,1,0,0,0,0,1,D_final,tier 3>2
+Q0097,standard,,CP,CP,3,2,1,0,0,0,0,1,D_final,tier 3>2
+Q0098,standard,,CP,CP,3,2,1,0,0,0,0,1,D_final,tier 3>2
+Q0223,standard,,SC,SC,2,1,1,0,0,0,0,1,D_final,tier 2>1
+Q0224,standard,,SC,SC,2,1,1,0,0,0,0,1,D_final,tier 2>1
+P0243,paraphrase,polite,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0244,paraphrase,reorder,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0245,paraphrase,polite,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0246,paraphrase,reorder,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0247,paraphrase,polite,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0248,paraphrase,reorder,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0249,paraphrase,polite,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0250,paraphrase,reorder,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0251,paraphrase,polite,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0252,paraphrase,reorder,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0253,paraphrase,polite,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0254,paraphrase,reorder,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)
+P0291,paraphrase,polite,LN,LN,3,2,1,0,0,0,0,1,D_final,tier 3>2
+P0292,paraphrase,reorder,LN,LN,3,2,1,0,0,0,0,1,D_final,tier 3>2
+P0293,paraphrase,polite,LN,LN,3,2,1,0,0,0,0,1,D_final,tier 3>2
+P0294,paraphrase,reorder,LN,LN,3,2,1,0,0,0,0,1,D_final,tier 3>2
+P0303,paraphrase,polite,CP,CP,3,2,1,0,0,0,0,1,D_final,tier 3>2
+P0304,paraphrase,reorder,CP,CP,3,2,1,0,0,0,0,1,D_final,tier 3>2
+P0305,paraphrase,polite,CP,CP,3,2,1,0,0,0,0,1,D_final,tier 3>2
+P0306,paraphrase,reorder,CP,CP,3,2,1,0,0,0,0,1,D_final,tier 3>2
+H0413,cell-holdout,functional예외,PB,PH,3,3,1,0,0,0,0,1,D_final,attr-scope(PB≠PH)

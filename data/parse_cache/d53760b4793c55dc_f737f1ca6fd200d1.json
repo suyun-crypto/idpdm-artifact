@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "CP", "req_tier": 2, "subject_relation": "other", "subject_hint": "Kolin지점", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 2571.9410000019707, "model": "gpt-4.1-2025-04-14"}

@@ -1,0 +1,29 @@
+{
+  "core": "09_decide_v2r.py",
+  "coords": "parser",
+  "fragset_hash": "f8e3611da9d8e1d8",
+  "n": 559,
+  "policies": [
+    "P0",
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5"
+  ],
+  "ksweep": [
+    2,
+    3,
+    5,
+    10,
+    20
+  ],
+  "trust": "neutral",
+  "gates": {
+    "G1p (P0,k=5) parser: leak 0 · over 34 (=33 governed + 1 adversarial)": true,
+    "G2 policy 단조 (release⊇ · escalate↑)": true,
+    "G3 k 단조 (release⊇)": true,
+    "G4 결정론": true
+  },
+  "curve_md5": "db63a184c0feb8fafe44231ee184b57b"
+}

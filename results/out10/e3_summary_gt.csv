@@ -1,0 +1,13 @@
+family,n,n_gt_withhold,pdp_bypass,off_bypass,menu_bypass,flagged
+F1,20,20,0,20,7,20
+F2,20,20,0,20,7,20
+F3,20,20,0,20,7,0
+F4,16,16,0,16,7,0
+F5,20,20,0,20,7,0
+F6,12,12,0,12,7,0
+F7-diff-R1,3,3,0,3,3,0
+F7-diff-R2,3,3,0,3,3,0
+F7-diff-skip,1,0,0,0,0,0
+F7-join,4,4,0,4,4,0
+F7-join-skip,2,0,0,0,0,0
+F7-neg,2,0,0,0,0,0

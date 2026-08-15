@@ -1,0 +1,5 @@
+﻿role,fragment_id,attr,tier,n_subjects,subjects,delta_vs_container,k,verdict,rule
+container,G08-00613,ER,2,6,E0051;E0052;E0053;E0054;E0055;E_F_PAY,,5,release,R3
+ledger_1,G08-01022,ER,3,1,E0051,5,5,,
+ledger_2,G08-01024,ER,3,1,E0052,5,5,,
+residual,,ER,,4,E0053;E0054;E0055;E_F_PAY,,5,isolated,

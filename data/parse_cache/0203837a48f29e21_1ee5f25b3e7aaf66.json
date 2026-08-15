@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "RM", "req_tier": 2, "subject_relation": "none", "subject_hint": "Cesky Krumlov지점", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 2900.793499997235, "model": "gpt-4.1-2025-04-14"}

@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "TA", "req_tier": 2, "subject_relation": "none", "subject_hint": "Liberec지점", "task_type": "aggregate", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 2635.543600001256, "model": "gpt-4.1-2025-04-14"}

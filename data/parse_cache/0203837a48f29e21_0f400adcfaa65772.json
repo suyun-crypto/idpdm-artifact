@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "CP", "req_tier": 2, "subject_relation": "none", "subject_hint": "Praha - vychod지점", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 3208.2708999951137, "model": "gpt-4.1-2025-04-14"}

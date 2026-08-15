@@ -1,0 +1,31 @@
+{
+  "core": "09_decide_v2r.py",
+  "coords": "parser",
+  "fragset_hash": "f8e3611da9d8e1d8",
+  "n": 123,
+  "trust": "neutral(E2 확정 승계)",
+  "gates": {
+    "G1 전 행 판정 (123)": true,
+    "G2p parser bypass = 0/118": true,
+    "G3 F7-neg 음성대조 (release,release)": true,
+    "G4 F7 원장 재구성 = GT 인코딩": true,
+    "G5 obligation 검증 오류 0": true,
+    "G6 결정론": true
+  },
+  "pdp_bypass_total": 0,
+  "r3only_bypass_total": 8,
+  "r3only_bypass_ids": [
+    "A0548",
+    "A0550",
+    "A0552",
+    "A0554",
+    "A0556",
+    "A0558",
+    "A0562",
+    "A0566"
+  ],
+  "menu_bypass_total": 52,
+  "gt_withhold": 118,
+  "flag_gt_n": 40,
+  "results_md5": "d85607b40d22685a70da47dffa0df425"
+}

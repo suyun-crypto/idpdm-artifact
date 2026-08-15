@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "PB", "req_tier": 3, "subject_relation": "other", "subject_hint": "Nobuyoshi Boudaillier", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 4076.2827999860747, "model": "gpt-4.1-2025-04-14"}

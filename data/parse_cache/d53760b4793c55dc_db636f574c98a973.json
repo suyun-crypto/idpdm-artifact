@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "RM", "req_tier": 2, "subject_relation": "other", "subject_hint": "Jindrichuv Hradec지점", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 1828.0384999961825, "model": "gpt-4.1-2025-04-14"}

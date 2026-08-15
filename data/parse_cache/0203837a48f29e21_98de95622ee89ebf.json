@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "CP", "req_tier": 2, "subject_relation": "none", "subject_hint": "Plzen - sever지점", "task_type": "aggregate", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 3130.1616999990074, "model": "gpt-4.1-2025-04-14"}

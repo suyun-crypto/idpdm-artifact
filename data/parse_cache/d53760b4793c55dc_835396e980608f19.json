@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "RM", "req_tier": 2, "subject_relation": "other", "subject_hint": "Pribram지점", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 2331.0152999911224, "model": "gpt-4.1-2025-04-14"}

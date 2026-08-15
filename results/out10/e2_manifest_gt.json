@@ -1,0 +1,36 @@
+{
+  "core": "09_decide_v2r.py",
+  "coords": "gt",
+  "parser_out_md5": null,
+  "fragset_hash": "f8e3611da9d8e1d8",
+  "n_queries": 436,
+  "gt_withhold_share": 0.3509,
+  "arms": [
+    "off",
+    "menu",
+    "abac_perm",
+    "abac_restr",
+    "r3only",
+    "pdp",
+    "pdp_tr"
+  ],
+  "r3only_leak_ids": [
+    "V0433"
+  ],
+  "mlp_arm": "local-pending(E4 코드 필요)",
+  "gates": {
+    "G1 전 행 판정": true,
+    "G2 PDP ≡ GT (diff=0)": true,
+    "G2a menu 앵커 86/153": true,
+    "G2r r3only ≡ per-item GT (전건)": true,
+    "G3 off 전량 릴리스": true,
+    "G4 결정론 (재실행 md5)": true
+  },
+  "results_md5": "be140153ea08776bb2b26516f7e8435e",
+  "splits": {
+    "standard": 230,
+    "paraphrase": 180,
+    "cell-holdout": 7,
+    "probe": 19
+  }
+}

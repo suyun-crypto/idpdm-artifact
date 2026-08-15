@@ -1,0 +1,11 @@
+﻿exp,coords,arm,n,withhold_gt,leak_n,leak_pct,release_gt,over_n,over_pct,canary,tier_exceed_n
+E2,gt,abac_perm,436,153,86,56.2,283,0,0.0,0,85
+E3,gt,abac_perm,123,118,52,44.1,5,0,0.0,2,44
+E2,gt,abac_restr,436,153,72,47.1,283,0,0.0,0,71
+E3,gt,abac_restr,123,118,32,27.1,5,0,0.0,1,24
+E2,gt,idpdm,436,153,0,0.0,283,0,0.0,0,0
+E3,gt,idpdm,123,118,0,0.0,5,0,0.0,0,0
+E2,gt,menu,436,153,86,56.2,283,0,0.0,0,85
+E3,gt,menu,123,118,52,44.1,5,0,0.0,2,44
+E2,gt,ungoverned,436,153,153,100.0,283,0,0.0,0,152
+E3,gt,ungoverned,123,118,118,100.0,5,0,0.0,2,110

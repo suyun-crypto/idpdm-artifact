@@ -1,0 +1,30 @@
+{
+  "fragset_hash": "f8e3611da9d8e1d8",
+  "seed": 3151277403,
+  "tau": 0.05556736886501312,
+  "clamp": "lam=1|own=1|ev=1|cl=1",
+  "hidden_cells": [
+    [
+      "B_RHQ",
+      "LN"
+    ],
+    [
+      "H_HR",
+      "PB"
+    ],
+    [
+      "S_ACC",
+      "RM"
+    ]
+  ],
+  "calib": {
+    "fp": 0.0091,
+    "recall": 1.0
+  },
+  "gates": {
+    "G1 전 행 판정": true,
+    "G2 학습 성립 (fp≤5% ∧ recall≥80%)": true,
+    "G3 결정론 (재적합 예측 동일)": true
+  },
+  "results_md5": "809220c0b14ad83f4006d13065c5551b"
+}

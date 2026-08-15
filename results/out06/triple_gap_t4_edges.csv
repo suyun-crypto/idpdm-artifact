@@ -1,0 +1,2 @@
+﻿edge_kind,fid_a,fid_b,risk,delta_size,a_in_ledger,b_in_ledger,disposition
+diff,G08-00661,G08-00980,risk,2,True,True,audit_alert (control point already passed)

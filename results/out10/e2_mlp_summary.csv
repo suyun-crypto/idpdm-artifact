@@ -1,0 +1,2 @@
+arm,n,leakage,leak_n,over_restriction,over_n,canary_release,tier_exceed,te_n,holdout_wrong,leak_by_rule
+mlp,436,0.1046,16/153,0.0565,16/283,0,0.0318,9/283,2,"{""R3"": 15, ""R1"": 1}"

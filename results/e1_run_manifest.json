@@ -1,0 +1,13 @@
+{
+  "prompt_hash": "0203837a48f29e21",
+  "model": "gpt-4.1",
+  "model_seen": [
+    "gpt-4.1-2025-04-14"
+  ],
+  "query_set_hash": "eb2d628722503d0e",
+  "fragset_hash": "f8e3611da9d8e1d8",
+  "n_queries": 559,
+  "n_error": 0,
+  "cache_hits": 559,
+  "revision_history": "constitution_v2 동결본 1판 (개정 시 여기 궤적 기록)"
+}

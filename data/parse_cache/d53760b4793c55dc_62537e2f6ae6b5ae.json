@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "RS", "req_tier": 2, "subject_relation": "other", "subject_hint": "Domazlice지점", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 2267.7086999901803, "model": "gpt-4.1-2025-04-14"}

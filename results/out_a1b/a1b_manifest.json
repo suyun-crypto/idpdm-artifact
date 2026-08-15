@@ -1,0 +1,23 @@
+{
+  "experiment": "A1b",
+  "coords": "both",
+  "k_sweep": [
+    2,
+    3,
+    5,
+    10,
+    20
+  ],
+  "policies": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "queryset_hash": "eb2d628722503d0e",
+  "parser_out_hash": "fea6ddc0e548fc92",
+  "fragset_hash": "f8e3611da9d8e1d8",
+  "gate": "PASS"
+}

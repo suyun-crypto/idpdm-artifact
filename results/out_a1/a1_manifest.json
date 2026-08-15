@@ -1,0 +1,35 @@
+{
+  "coords": "both",
+  "n_rows": 559,
+  "queryset_hash": "eb2d628722503d0e",
+  "parser_out_hash": "fea6ddc0e548fc92",
+  "fragset_hash": "f8e3611da9d8e1d8",
+  "k_head": 5,
+  "gate": "PASS",
+  "anchors": {
+    "E2 iDPDM leak 0/153": [
+      "PASS",
+      "0/153"
+    ],
+    "E2 iDPDM over 0/283": [
+      "PASS",
+      "0/283"
+    ],
+    "E3 iDPDM bypass 0/118": [
+      "PASS",
+      "0/118"
+    ],
+    "E2 menu leak 86/153 (56.2%)": [
+      "PASS",
+      "86/153"
+    ],
+    "E2 ungov leak 153/153": [
+      "PASS",
+      "153/153"
+    ],
+    "E2 iDPDM canary 0": [
+      "PASS",
+      0
+    ]
+  }
+}

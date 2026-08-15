@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "PB", "req_tier": 2, "subject_relation": "other", "subject_hint": "수신팀", "task_type": "aggregate", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 3419.469999993453, "model": "gpt-4.1-2025-04-14"}

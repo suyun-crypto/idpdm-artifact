@@ -1,0 +1,7 @@
+﻿k,permutation,last_fragment,last_role,verdict,rule,residual_size,leak_completed,reason
+5,G08-00613→G08-01022→G08-01024,G08-01024,individual,withhold,R3,4,0,R3:tier 3>2
+5,G08-00613→G08-01024→G08-01022,G08-01022,individual,withhold,R3,4,0,R3:tier 3>2
+5,G08-01022→G08-00613→G08-01024,G08-01024,individual,withhold,R3,4,0,R3:tier 3>2
+5,G08-01022→G08-01024→G08-00613,G08-00613,container,release,R3,4,1,R3:ok
+5,G08-01024→G08-00613→G08-01022,G08-01022,individual,withhold,R3,4,0,R3:tier 3>2
+5,G08-01024→G08-01022→G08-00613,G08-00613,container,release,R3,4,1,R3:ok

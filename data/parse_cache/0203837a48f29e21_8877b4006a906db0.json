@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "AL", "req_tier": 2, "subject_relation": "none", "subject_hint": "Pardubice지점", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 2614.361599989934, "model": "gpt-4.1-2025-04-14"}

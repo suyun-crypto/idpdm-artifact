@@ -1,0 +1,5 @@
+﻿check,v1,v2
+gt anchor k5 leak0/over0,0,0
+gt k=2 leak>0,6,2.2
+gt k=20 over_n,24,
+P0..P5 review 단조성,PASS,

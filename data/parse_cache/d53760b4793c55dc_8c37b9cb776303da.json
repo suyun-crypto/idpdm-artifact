@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "PB", "req_tier": 2, "subject_relation": "other", "subject_hint": "Svitavy지점", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 2340.0757000054, "model": "gpt-4.1-2025-04-14"}

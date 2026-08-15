@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "FA", "req_tier": 2, "subject_relation": "other", "subject_hint": "Jablonec n. Nisou지점", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 2520.631300008972, "model": "gpt-4.1-2025-04-14"}

@@ -1,0 +1,14 @@
+{
+  "prompt": "constitution_v2.txt",
+  "frozen_revision": "r2",
+  "note": "Parse caches are keyed by prompt hash; runs cannot mix revisions. Each revision repaired a clause the specification had already settled, not an evaluation outcome (Section VI-B).",
+  "revisions": [
+    {"rev": "r0", "md5_prefix": "d53760b479",
+     "change": "initial constitution (C1-C6)"},
+    {"rev": "r1", "md5_prefix": "451ae980e9",
+     "change": "C6 restricted subject naming to human subjects; the reported 54.9% subject-relation figure was a scorer artifact (scorer demanded identity resolution that C6 excludes)"},
+    {"rev": "r2", "md5_prefix": "0203837a48",
+     "change": "vocabulary table states the subject axis per attribute group (EmployeeRoster = employees only; CustomerProfile includes customer rosters), reflecting policy_attr.subject_type; frozen thereafter",
+     "carried_by": "e1_run_manifest.json and all downstream run manifests"}
+  ]
+}

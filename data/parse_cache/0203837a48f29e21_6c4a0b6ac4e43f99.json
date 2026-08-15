@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "RS", "req_tier": 2, "subject_relation": "none", "subject_hint": "Melnik지점", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 3175.980400003027, "model": "gpt-4.1-2025-04-14"}

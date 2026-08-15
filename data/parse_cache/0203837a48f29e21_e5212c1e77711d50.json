@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "PH", "req_tier": 2, "subject_relation": "none", "subject_hint": "Rychnov nad Kneznou지점", "task_type": "aggregate", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 5318.632499998785, "model": "gpt-4.1-2025-04-14"}

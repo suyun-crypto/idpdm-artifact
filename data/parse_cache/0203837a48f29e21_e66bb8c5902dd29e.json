@@ -1,0 +1,1 @@
+{"pi": {"attribute_group": "PB", "req_tier": 2, "subject_relation": "none", "subject_hint": "지점", "task_type": "lookup", "stated_purpose": null, "injection_suspected": false, "ambiguous": false}, "status": "OK", "ms": 994.6733999968274, "model": "gpt-4.1-2025-04-14"}
